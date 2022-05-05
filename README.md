@@ -12,8 +12,7 @@
 * The plot and the preparation of the data are taken from here: https://python-course.eu/machine-learning/k-nearest-neighbor-classifier-in-python.php
 
 # TO DO
-* Scrape some original data from the web and feed it into the classifier
-* make the output prettier
+~~* make the output prettier~~
 * k-d tree
 * balltree
 * implement model evaluation
