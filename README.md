@@ -5,8 +5,9 @@
 * I want to add k-d tree and balltree later to improve the project.
 
 # PURPOSE OF THE PROJECT
-* The jupyter notebook also includes a short intro to supervised learning
 * The purpose of the project is educational. I want this repo to be a good resource for others.
+* The jupyter notebook also includes a short intro to supervised learning
+
 
 # RESOURCES
 * The plot and the preparation of the data are taken from here: https://python-course.eu/machine-learning/k-nearest-neighbor-classifier-in-python.php
