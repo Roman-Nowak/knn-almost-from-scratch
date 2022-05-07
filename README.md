@@ -18,6 +18,6 @@
 * ~~make the output prettier~~
 * k-d tree
 * ball tree
-* add other metrics. (right now there is only euclidean distance)
+* add other metrics since right now there is only euclidean distance
 * implement model evaluation
-* rewrite it in the oop paradigm
+* ~~rewrite it in the OOP paradigm~~
