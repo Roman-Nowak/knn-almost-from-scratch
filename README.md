@@ -12,10 +12,12 @@
 # RESOURCES
 * The plot and the preparation of the data are taken from here: https://python-course.eu/machine-learning/k-nearest-neighbor-classifier-in-python.php
 * k-d tree, ball tree: https://towardsdatascience.com/tree-algorithms-explained-ball-tree-algorithm-vs-kd-tree-vs-brute-force-9746debcd940
+* metrics & higher-dimensional data https://www.baeldung.com/cs/k-nearest-neighbors
 
 # TO DO
 * ~~make the output prettier~~
 * k-d tree
 * ball tree
+* add other metrics. (right now there is only euclidean distance)
 * implement model evaluation
 * rewrite it in the oop paradigm
